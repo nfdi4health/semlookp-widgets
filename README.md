@@ -1,8 +1,10 @@
+## [**Click here for the latest documentation**](https://ts4nfdi.github.io/terminology-service-suite/comp/latest/)
+
 # SemLookP Widgets
 
 This project was transferred to the [TS4NFDI](https://github.com/ts4nfdi/terminology-service-suite) repository and renamed to Terminology Service Suite.
 
-Packages of versions < 2.0.0 can be found here: https://github.com/orgs/nfdi4health/packages/npm/package/semlookp-widgets
+Packages of versions < 2.0.0 can be found [here](https://github.com/orgs/nfdi4health/packages/npm/package/semlookp-widgets).
 
 Packages of versions > 2.0.0 will be published in the TS4NFDI repository.
 
