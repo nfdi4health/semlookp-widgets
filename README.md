@@ -10,8 +10,11 @@ Packages of versions > 2.0.0 will be published in the TS4NFDI repository.
 
 ## Funding
 
-The project is derived from the Semantic Lookup Platform SemLookP which was developed in part by the [NFDI4Health
-Consortium](www.nfdi4health.de) and the [ZB MED - Information Centre for Life Sciences](https://www.zbmed.de/en/).
+This project is developed by the Terminology Services for NFDI (TS4NFDI) project (as part of the [Base4NFDI
+consortium](https://base4nfdi.de/)), and the [NFDI4Health Consortium](https://www.nfdi4health.de).
 
-It is now hosted and developed by Terminology Services for NFDI (TS4NFDI), as part of the [Base4NFDI
-consortium](https://base4nfdi.de/).
+The NFDI4Health Consortium gratefully acknowledges the financial support of the Deutsche Forschungsgemeinschaft 
+(DFG, German Research Foundation) – project number 442326535.
+
+The project is derived from the Semantic Lookup Platform SemLookP which was also developed in part 
+by [ZB MED - Information Centre for Life Sciences](https://www.zbmed.de/en/).
